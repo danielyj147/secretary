@@ -4,6 +4,8 @@ A personal AI secretary dashboard that serves as the shared memory between you a
 
 **[Live demo with sample data](https://secretary.danielyj.com/demo)** — no sign-in required, click to explore
 
+![Secretary dashboard screenshot](assets/example.png)
+
 ## Architecture
 
 ```
